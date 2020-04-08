@@ -1,1 +1,3 @@
-{"main":"/api.raml"}
+{
+  "main": "/api.raml"
+}
